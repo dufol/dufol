@@ -1,8 +1,6 @@
 #  Hi, I'm Lalise!
-
 I'm a Business Administration student with a minor in Computer Science, interested in the intersection of business, technology, and data. I'm passionate about using technology and data to solve problems, improve business operations, and make informed decisions.
 I'm currently building my technical skills and exploring how programming, data analytics, and business strategy can work together to create meaningful solutions.
-
 
 # About Me
 Pursuing a B.S. in Business Administration with a minor in Computer Science.
@@ -24,3 +22,4 @@ Coming soon! I'm currently working on projects to strengthen my programming, ana
 # Connect With Me 
 - Linked:https://www.linkedin.com/in/lalise-dufo-a5b0aa299/
 - Email: dufol@csp.edu
+
