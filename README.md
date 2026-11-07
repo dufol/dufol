@@ -26,7 +26,7 @@ Continuously learning and building hands-on projects.
 Coming soon! I'm currently working on projects to strengthen my programming, analytical, and problem-solving skills.
 
 # Connect With Me 
-- [Linked](https://www.linkedin.com/in/lalise-dufo-a5b0aa299/)
+- [Linkedin](https://www.linkedin.com/in/lalise-dufo-a5b0aa299/)
 - [Email](mailto:dufol@csp.edu)
 - [GitHub](https://github.com/dufol)
 
